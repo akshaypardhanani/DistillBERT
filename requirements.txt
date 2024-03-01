@@ -1,0 +1,5 @@
+transformers==4.38.1
+optimum[exporters]==1.17.1
+numpy==1.26.2
+evaluate==0.4.1
+datasets==2.17.1
